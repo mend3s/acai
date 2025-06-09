@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-import streamlit_pills as stp
+import streamlit-pills as stp
 import seaborn as sns
 import matplotlib.pyplot as plt
 from functions import setup
